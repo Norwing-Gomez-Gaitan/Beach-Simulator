@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\US\source\repos\Norwing-Gomez-Gaitan\Beach-Simulator\Beach Simulator\Beach Simulator\main.cpp(85,55): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\US\source\repos\Norwing-Gomez-Gaitan\Beach-Simulator\Beach Simulator\Beach Simulator\main.cpp(95,59): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Beach Simulator.vcxproj -> C:\Users\US\Source\Repos\Norwing-Gomez-Gaitan\Beach-Simulator\Beach Simulator\x64\Debug\Beach Simulator.exe
